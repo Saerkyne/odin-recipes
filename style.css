@@ -22,25 +22,6 @@
     margin: auto;
 }
 
-/* 
-.ingred-list,
-.step-list {
-    border: black;
-    border-width: 2px;
-    border-style: solid;
-}
-
-.ingred-list,
-.ingred-list-item {
-    background-color: seashell;
-}
-
-.step-list, 
-.step-list-item {
-    background-color: darkslategrey;
-}
-*/
-
 .ingred-list,
 .step-list {
     border: black;
