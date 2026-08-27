@@ -1,0 +1,73 @@
+* {
+    background-color: peru;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title,
+.description {
+    margin: auto;
+}
+
+.title {
+    text-align: center;
+    background-color: skyblue;
+    padding: 10px;
+}
+
+.description {
+    text-align: left;
+    background-color: orange;
+    color: green;
+    padding: 20px;
+    margin: auto;
+}
+
+/* 
+.ingred-list,
+.step-list {
+    border: black;
+    border-width: 2px;
+    border-style: solid;
+}
+
+.ingred-list,
+.ingred-list-item {
+    background-color: seashell;
+}
+
+.step-list, 
+.step-list-item {
+    background-color: darkslategrey;
+}
+*/
+
+.ingred-list,
+.step-list {
+    border: black;
+    border-width: 2px;
+    border-style: solid;
+    padding-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.ingred-list {
+    background-color: seashell;
+}
+
+.ingred-list li {
+    background-color: seashell;
+    margin: 5px;
+}
+
+.step-list {
+    background-color: darkslategray;
+}
+
+.step-list li {
+    background-color: darkslategray;
+    margin: 5px;
+    border-bottom: black;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+}
